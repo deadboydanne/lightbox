@@ -18,4 +18,4 @@ here is an example on how you include the files:
 ```
 
 once you have included the files you simply add a `<a>` tag to your page and add `class="lightbox"` in it and make it link to an image.
-Now once you click on the link the image appears in a lightbox.
+Now once you click on the link and the image appears in a lightbox.
