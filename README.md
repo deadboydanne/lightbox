@@ -17,5 +17,5 @@ here is an example on how you include the files:
    <link rel="stylesheet" type="text/css" href="lightbox/lightbox.css">
 ```
 
-once you have included the files you simply add an <a> tag to your page and add `class="lightbox"` in it and make it link to an image.
+once you have included the files you simply add a `<a>` tag to your page and add `class="lightbox"` in it and make it link to an image.
 Now once you click on the link the image appears in a lightbox.
